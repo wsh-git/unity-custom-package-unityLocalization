@@ -1,0 +1,17 @@
+{
+    "name": "Wsh.Localization",
+    "rootNamespace": "",
+    "references": [
+        "GUID:8b3793c9f054bb447a01469cf6fd8f6e",
+        "GUID:edaf78f30c77a1c4ca672d7f4accd7f4"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
