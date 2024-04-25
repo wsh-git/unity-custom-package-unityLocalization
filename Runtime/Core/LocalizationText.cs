@@ -30,7 +30,9 @@ namespace Wsh.Localization {
         }
 
         private void ReadText() {
-            m_text.text = m_localizationManager.GetLocalText(m_localId);
+            if(!string.IsNullOrEmpty(m_localId)) {
+                m_text.text = m_localizationManager.GetLocalText(m_localId);
+            }
         }
 
         private void InitFont() {
